@@ -3,7 +3,7 @@ import pandas as pd
 from pathlib import Path
 from metaDataCreate import *
 
-
+#Recep Can Altınbağ, 2021
 
 parser = ConfigParser()
 parser.read("config.conf")
