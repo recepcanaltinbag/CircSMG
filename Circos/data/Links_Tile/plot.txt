@@ -1,0 +1,355 @@
+<plot>
+file = data/Links_Tile/AAMall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr1_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/AAMhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr1
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/CMall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr3_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/CMhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr3
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/MoCaVall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr4_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/MoCaVhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr4
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/EMall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr7_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/EMhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr7
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/XBaMall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr8_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/XBaMhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr8
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/NMall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr10_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/NMhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr10
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/LMall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr11_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/LMhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr11
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/BoSMall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr13_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/BoSMhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr13
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/MoOAAall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr14_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/MoOAAhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr14
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/GBaMall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr17_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/GBaMhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr17
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/Tall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr19_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/Thalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr19
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/BoPaNPall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr21_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/BoPaNPhalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr21
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/STall.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr22_a2
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+<plot>
+file = data/Links_Tile/SThalf.txt
+r1 = 0.85r
+r0 = 0.80r
+color = chr22
+thickness = 50p
+show_label = yes
+layers_overflow=collapse
+orientation = out
+stroke_thickness = 0.5
+stroke_color = black
+</plot>
+
+
+<plot>
+type = text
+color = black
+file = data/Links_Tile/Text.txt
+r1 = 0.90r
+r0 = 0.85r
+show_links = no
+link_dims = 4p,4p,8p,4p,4p
+link_thickness = 1p
+link_color = black
+label_size = 12p
+label_font = condensed
+padding  = 0p
+rpadding = 0p
+</plot>
+
