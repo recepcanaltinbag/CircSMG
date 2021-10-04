@@ -9,7 +9,7 @@ Visualization of strain specific genomic regions and their relation with metabol
 ## The required packages 
 
 - [Pandas](https://github.com/pandas-dev/pandas) pandas-1.3.3
-- [Circos] (http://circos.ca/) v 0.69-8 
+- [Circos](http://circos.ca/) v 0.69-8 
 
 
 # Installation 
